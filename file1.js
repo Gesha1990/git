@@ -1,1 +1,1 @@
-const hello = 'hello!!!123'
+const hello = 'hello!!!123mergecommit 2'
