@@ -1,1 +1,1 @@
-const hello = 'hello prerabace 2'
+const hello = 'hello'
