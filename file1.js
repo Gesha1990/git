@@ -1,1 +1,1 @@
-const hello = 'forth try'
+const hello = '10 try'
